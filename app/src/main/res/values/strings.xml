@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyCalorieCounter</string>
+    <string name="food">Food</string>
+    <string name="foodId">1</string>
+    <string name="recipe">Recipes</string>
+    <string name="recipeId">2</string>
+    <string name="caloricGoals">Caloric Goals</string>
+    <string name="caloricGoalsiD">3</string>
+    <string name="buttonHeight">245</string>
+</resources>
